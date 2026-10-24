@@ -18,7 +18,11 @@
   - Luiz Carlos
   - Leonardo Lima
 
-- equipe 03:
+- **equipe 02** (achou!):
+  - Paulo Augusto
+  - Guilherme Monteiro
+
+- **equipe 03** (RotaCerta):
   - Ivens Magno
   - Gabriel Francimar
 
