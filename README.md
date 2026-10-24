@@ -5,6 +5,7 @@
 - [ ] Stack proposta (tecnologias, frameworks, linguagens, etc)
 - [ ] Diagrama de arquitetura do projeto (mermaid, flowchart, etc)
 - [ ] Endpoints funcionando e com testes automatizados
+- [ ] Documentar ADRs ao longo do desenvolvimento
 
 --- 
 ## Entregáveis do projeto 
